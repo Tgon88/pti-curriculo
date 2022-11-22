@@ -1,0 +1,68 @@
+.largura-corpo{
+    max-width: 100%; /* o MAX vai se adaptar ao tamanho da tela */
+    
+    }
+
+.caixa{
+    background-color: rgb(229, 226, 226);
+    margin:20px 1px;
+    border-width: 1px; /*espessura*/
+    border-style: style;/*estilo*/
+    /* border: 5px dotter red; */
+    padding: 30px;/* espassamento internamente*/
+
+}
+
+
+div{
+width: 10px 10px;
+border: 2p rgb(155, 150, 150);
+padding: 20px;
+}
+
+.caixa{
+margin-top: 30px;
+margin-right: 300px;
+margin-bottom: 20px;
+margin-left: 600px;
+padding: 30px;
+}
+
+
+h1{
+color: black;
+font: 600 28px Arial;
+}
+
+h4{
+color: black;
+font: 500 14px Arial;
+padding-left: 10px;
+}
+
+h2{
+color: rgb(0, 0, 0);
+font: 800 22px Arial;
+}
+
+h3 {
+    color: black;
+    font: 800 18px Arial; 
+}
+
+p {
+    font: 500 14px Arial;
+}
+
+.letra{
+color: rgb(0, 0, 0);
+}
+
+img {
+    width: 260px;
+    height: 270px;
+    border: 1px  rgb(100, 97, 97);
+    border-radius: 50%;
+    position: absolute;
+    right: 450px;
+}
